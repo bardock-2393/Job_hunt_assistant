@@ -1,47 +1,46 @@
 remote: true
 hybrid: true
 onsite: true
-
 experience_level:
-  internship: false
-  entry: true
-  associate: true
-  mid_senior_level: true
-  director: false
-  executive: false
-
+ internship: false  # Already graduated and working as Jr. Engineer
+ entry: true        # Currently at entry level as Jr. Software Engineer
+ associate: true    # Qualified for associate level with 1+ year experience
+ mid_senior_level: true  # Has relevant experience across domains
+ director: false    # Not at director level yet
+ executive: false   # Not at executive level yet
 job_types:
-  full_time: true
-  contract: false
-  part_time: false
-  temporary: true
-  internship: false
-  other: false
-  volunteer: true
-
+ full_time: true    # Currently in full-time role
+ contract: false    # No contract experience shown
+ part_time: false   # No part-time experience shown  
+ temporary: true    # Has done apprenticeship
+ internship: false  # Already past internship stage
+ other: false
+ volunteer: true    # Shows initiative through technical writing
 date:
-  all_time: false
-  month: false
-  week: false
-  24_hours: true
-
+ all_time: false
+ month: false  
+ week: false
+ 24_hours: true    # Looking for active recent postings
 positions:
-  - Software engineer
-
+ - Software Engineer
+ - DevOps Engineer 
+ - Cloud Engineer
+ - Full Stack Developer
+ - Backend Engineer
 locations:
-  - Germany
-
+ - Mumbai
+ - Pune
+ - Bangalore
+ - Hyderabad
+ - Delhi NCR
+ - Chennai
 apply_once_at_company: true
-
 distance: 100
-
 company_blacklist:
-  - wayfair
-  - Crossover
-
+ - wayfair
+ - Crossover
 title_blacklist:
-  - word1
-  - word2
-
+ - word1
+ - word2
 location_blacklist:
-  - Brazil
+ - Brazil

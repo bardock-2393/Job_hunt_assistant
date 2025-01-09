@@ -1,130 +1,118 @@
 personal_information:
-  name: "[Your Name]"
-  surname: "[Your Surname]"
-  date_of_birth: "[Your Date of Birth]"
-  country: "[Your Country]"
-  city: "[Your City]"
-  address: "[Your Address]"
-  zip_code: "[Your zip code]"
-  phone_prefix: "[Your Phone Prefix]"
-  phone: "[Your Phone Number]"
-  email: "[Your Email Address]"
-  github: "[Your GitHub Profile URL]"
-  linkedin: "[Your LinkedIn Profile URL]"
+  name: Deep
+  surname: Santoshwar
+  date_of_birth: 02-03-2002
+  country: India
+  city: Mumbai
+  address: plot no.1 renuka sai appartment friends colony katol road nangpur
+  zip_code: "440013"
+  phone_prefix: "+91"
+  phone: "9834577439"
+  email: deepsantoshwar7@gmail.com
+  github: https://github.com/bardock-2393
+  linkedin: https://www.linkedin.com/in/deep-santoshwar/
 
 education_details:
-  - education_level: "[Your Education Level]"
-    institution: "[Your Institution]"
-    field_of_study: "[Your Field of Study]"
-    final_evaluation_grade: "[Your Final Evaluation Grade]"
-    start_date: "[Start Date]"
-    year_of_completion: "[Year of Completion]"
-    exam:
-      exam_name_1: "[Grade]"
-      exam_name_2: "[Grade]"
-      exam_name_3: "[Grade]"
-      exam_name_4: "[Grade]"
-      exam_name_5: "[Grade]"
-      exam_name_6: "[Grade]"
+  - education_level: Bachelors of Technology
+    institution: MIT Academy of Engineering
+    field_of_study: Information Technology
+    final_evaluation_grade: 8.55 CGPA
+    start_date: "2019"
+    year_of_completion: "2023"
+    exam: null
 
 experience_details:
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - position: Jr.Software Engineer
+    company: Pristine IT Code Pvt Ltd
+    employment_period: "04/2023 - Present"
+    location: Mumbai, MH, IN
+    industry: Information Technology
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
+      - responsibility_1: Coordinated the deployment and management of four monolithic projects on EC2
+      - responsibility_2: Created CI/CD pipelines using GitHub Actions
+      - responsibility_3: Set up the ELK stack and developed custom dashboards
     skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - AWS EC2
+      - CI/CD
+      - ELK Stack
 
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - position: Big Data & Cloud (Apprenticeship)
+    company: Abzooba (UST)
+    employment_period: "07/2023 - 12/2023"
+    location: Pune, MH, IN
+    industry: Big Data & Cloud Computing
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
+      - responsibility_1: Designed and implemented AWS Batch data pipeline
+      - responsibility_2: Developed end-to-end eCommerce data pipeline
+      - responsibility_3: Implemented SQL and NoSQL databases
     skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - AWS
+      - PySpark
+      - MongoDB
 
 projects:
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
-
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
+  - name: VEHIWATCH
+    description: Optimized EV monitoring dashboard using S3, AWS IoT Core, Python, Flask, HTML, CSS, JavaScript, Leaf and Highcharts
+    link: null
 
 achievements:
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
+  - name: Technical Writing
+    description: Proficient technical Geeks for Geeks writer with 30+ articles and 28K+ views
+  - name: DSA Articles
+    description: Revitalized 100+ DSA articles, enhancing content and algorithms
 
 certifications:
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
+  - name: AWS Cloud Practitioner
+    description: null
+  - name: Azure Fundamental AZ-900
+    description: null
 
 languages:
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
+  - language: English
+    proficiency: Professional
+  - language: Hindi
+    proficiency: Native
 
 interests:
-  - "[Interest]"
-  - "[Interest]"
-  - "[Interest]"
+  - Cloud Computing
+  - DevOps
+  - Technical Writing
 
 availability:
-  notice_period: "[Notice Period]"
+  notice_period: "60 days"  # Standard Indian IT industry notice period
 
 salary_expectations:
-  salary_range_usd: "[Salary Range]"
+  salary_range_usd: null  # Not provided in resume
 
 self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Yes/No]"
-  disability: "[Yes/No]"
-  ethnicity: "[Ethnicity]"
-
+  gender: null  # Not provided in resume
+  pronouns: null  # Not provided in resume
+  veteran: "No"  # Based on Indian context and age
+  disability: null  # Not provided in resume
+  ethnicity: Indian
 
 legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
-  requires_us_visa: "[Yes/No]"
-  requires_us_sponsorship: "[Yes/No]"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
-  legally_allowed_to_work_in_us: "[Yes/No]"
-  requires_eu_sponsorship: "[Yes/No]"
-  canada_work_authorization: "[Yes/No]"
-  requires_canada_visa: "[Yes/No]"
-  legally_allowed_to_work_in_canada: "[Yes/No]"
-  requires_canada_sponsorship: "[Yes/No]"
-  uk_work_authorization: "[Yes/No]"
-  requires_uk_visa: "[Yes/No]"
-  legally_allowed_to_work_in_uk: "[Yes/No]"
-  requires_uk_sponsorship: "[Yes/No]"
-
+  eu_work_authorization: "No"
+  us_work_authorization: "No"
+  requires_us_visa: "Yes"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "No"
+  requires_eu_sponsorship: "Yes"
+  canada_work_authorization: "No"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "No"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "Yes"
 
 work_preferences:
-  remote_work: "[Yes/No]"
-  in_person_work: "[Yes/No]"
-  open_to_relocation: "[Yes/No]"
-  willing_to_complete_assessments: "[Yes/No]"
-  willing_to_undergo_drug_tests: "[Yes/No]"
-  willing_to_undergo_background_checks: "[Yes/No]"
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"  # Common for Indian IT professionals
+  willing_to_complete_assessments: "Yes"  # Standard in IT industry
+  willing_to_undergo_drug_tests: "Yes"  # Standard for international roles
+  willing_to_undergo_background_checks: "Yes"  # Standard in IT industry
